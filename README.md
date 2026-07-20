@@ -1,8 +1,6 @@
-# iris-path-prioritization
-Cluster-Guided Path Prioritization for Efficient LLM-Assisted Static Vulnerability Detection
 # Cluster-Guided Path Prioritization for Efficient LLM-Assisted Static Vulnerability Detection
 
-**Authors:** Soniya Pranav Apte, Ali Zia Khan, Zubair Malik  
+**Authors:** Zubair Malik, Soniya Pranav Apte, Ali Zia Khan
 **Affiliation:** North Dakota State University  
 **Status:** Working paper (2026)
 
