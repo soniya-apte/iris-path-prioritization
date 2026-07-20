@@ -86,4 +86,4 @@ This work used resources of the Center for Computationally Assisted Science and 
 
 ## Paper
 
-[Working Paper (PDF)](docs/Paper - July 2026)
+[Working Paper (PDF)](docs/paper.pdf)
